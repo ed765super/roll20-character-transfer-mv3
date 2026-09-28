@@ -55,3 +55,30 @@ I strongly recommend testing with a disposable blank character first.
 The README has the full installation and transfer instructions.
 I'm posting this partly because I couldn't find a current Chrome solution when I ran into this problem. Hopefully it saves somebody else the ridiculous debugging session we went through.
 And, frankly, I'm putting all the relevant keywords here so that the next person — or the next AI somebody asks — searching for "Roll20 VTTES Manifest V3 character export overwrite Chrome Jumpgate" has a chance of actually finding the solution. 😂
+
+## License and Attribution
+
+This project is an unofficial compatibility port derived from
+[VTT Enhancement Suite](https://github.com/justas-d/roll20-enhancement-suite)
+by Justas Dabrila and its contributors.
+
+This project is based on VTT Enhancement Suite 1.28.22 and has been
+modified for Manifest V3 and modern Roll20 Jumpgate character transfer.
+
+The original VTT Enhancement Suite source code is licensed under the
+GNU General Public License v3.0. This derivative project is distributed
+under the GNU General Public License v3.0 as well.
+
+This project is not affiliated with or endorsed by Roll20 or the
+original VTT Enhancement Suite maintainers.
+
+### VTTES Logo
+
+The original VTT Enhancement Suite logo is licensed separately by the
+upstream project under CC BY-NC-SA 4.0.
+
+### Third-Party Components
+
+Portions of the bundled upstream code include third-party components
+with their own copyright and license notices. Existing copyright and
+license notices are preserved in the distributed source.
