@@ -4,6 +4,9 @@ This project began as an attempt to use VTT Enhancement Suite 1.28.22
 to transfer a Roll20 character after exhausting Roll20's normal
 character transfers.
 
+Based on VTT Enhancement Suite 1.28.22.
+Modified for Manifest V3 and modern Roll20 Jumpgate character transfer.
+
 ## 1. Chrome rejects the original extension
 
 Error:
